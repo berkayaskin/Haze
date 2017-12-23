@@ -1,2 +1,2 @@
-# movies
-movie project
+# Haze
+-npm install
